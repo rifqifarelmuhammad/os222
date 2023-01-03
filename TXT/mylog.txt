@@ -1,0 +1,100 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 30 L00 General, etc.
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 200 L02 ZOOM meetings related
+ZCZC W00 25 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 5 L05 QUIZ
+ZCZC W00 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 390 L09 Weekly Assignments
+ZCZC W01 30 L01 SCELE/Discord related
+ZCZC W01 160 L02 ZOOM meetings related
+ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 30 L05 Quiz related including studying
+ZCZC W01 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 45 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W01 240 L11 Assignment #01
+ZCZC W01 20 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 45 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 15 L41 TXT/mylog.txt related.
+ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W02 200 L02 ZOOM meetings related
+ZCZC W02 45 L01 SCELE/Discord related
+ZCZC W02 45 L05 Quiz related including studying
+ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W02 210 L12 Assignment #02
+ZCZC W02 20 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W02 60 L32 YouTube: watching OS related topics, etc
+ZCZC W02 10 L41 TXT/mylog.txt related
+ZCZC W02 45 L40 TXT/ related in general
+ZCZC W02 15 L42 TXT/mypubkey.txt related
+ZCZC W02 30 L43 TXT/myrank.tex related, including peer review
+ZCZC W02 15 L44 TXT/myscript.sh related
+ZCZC W03 100 L00 Offline meeting
+ZCZC W03 30 L01 SCELE/Discord related
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 60 L05 Quiz related including studying
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W03 180 L13 Assignment #03
+ZCZC W03 60 L40 TXT/ related in general
+ZCZC W03 60 L43 TXT/myrank.tex related, including peer review
+ZCZC W04 100 L00 Offline meeting
+ZCZC W04 40 L01 SCELE/Discord related
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 90 L05 Quiz related including studying
+ZCZC W04 200 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W04 60 L14 Assignment #4
+ZCZC W04 90 L40 TXT/ related in general.
+ZCZC W05 100 L00 General, etc.
+ZCZC W05 45 L01 SCELE/Discord related
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 10 L04 GitHub Pages related
+ZCZC W05 100 L05 QUIZ and Studying
+ZCZC W05 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 40 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W05 100 L15 Assignment #05
+ZCZC W05 90 L40 TXT/ related in general.
+ZCZC W06 100 L00 General, etc.
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 30 L04 GitHub Pages related
+ZCZC W06 120 L05 QUIZ and Studying
+ZCZC W06 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W06 120 L16 Assignment #06
+ZCZC W06 90 L40 TXT/ related in general.
+ZCZC W07 100 L00 General, etc.
+ZCZC W07 40 L01 SCELE/Discord related
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 40 L04 GitHub Pages related
+ZCZC W07 120 L05 QUIZ and Studying
+ZCZC W07 100 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 30 L07 Demo related
+ZCZC W07 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W07 150 L17 Assignment #07
+ZCZC W07 10 L22 Linux CLI including tar, etc.
+ZCZC W07 10 L25 C-language including Make.
+ZCZC W07 10 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 60 L40 TXT/ related in general.
+ZCZC W08 100 L00 General, etc.
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 30 L04 GitHub Pages related
+ZCZC W08 90 L05 QUIZ and Studying
+ZCZC W08 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 20 L07 Demo related
+ZCZC W08 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W08 300 L18 Assignment #08
+ZCZC W08 60 L40 TXT/ related in general.
